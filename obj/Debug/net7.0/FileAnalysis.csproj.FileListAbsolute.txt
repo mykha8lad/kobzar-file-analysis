@@ -1,0 +1,15 @@
+D:\c#-projects\FileAnalysis\FileAnalysis\bin\Debug\net7.0\FileAnalysis.exe
+D:\c#-projects\FileAnalysis\FileAnalysis\bin\Debug\net7.0\FileAnalysis.deps.json
+D:\c#-projects\FileAnalysis\FileAnalysis\bin\Debug\net7.0\FileAnalysis.runtimeconfig.json
+D:\c#-projects\FileAnalysis\FileAnalysis\bin\Debug\net7.0\FileAnalysis.dll
+D:\c#-projects\FileAnalysis\FileAnalysis\bin\Debug\net7.0\FileAnalysis.pdb
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.csproj.AssemblyReference.cache
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.AssemblyInfoInputs.cache
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.AssemblyInfo.cs
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.csproj.CoreCompileInputs.cache
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.dll
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\refint\FileAnalysis.dll
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.pdb
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\FileAnalysis.genruntimeconfig.cache
+D:\c#-projects\FileAnalysis\FileAnalysis\obj\Debug\net7.0\ref\FileAnalysis.dll
